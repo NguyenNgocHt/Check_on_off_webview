@@ -1,5 +1,5 @@
 {
-  "linkCheckIP": "http://ip-api.com/json",
+  "linkCheckIP": "",
   "linkWebview": "https://s8.cc/",
   "isUpdate": true
 }
