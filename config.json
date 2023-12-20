@@ -1,5 +1,5 @@
 {
-  "linkCheckIP": "",
-  "linkWebview": "https://s8.cc/",
-  "isUpdate": false
+  "linkCheckIP": "http://ip-api.com/json",
+  "linkWebview": "https://s8.cc/home/game?gameCategoryId=0",
+  "isUpdate": true
 }
